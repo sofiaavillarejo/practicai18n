@@ -3,6 +3,7 @@
 ## Project setup
 ```
 npm install
+npm install vue-i18n
 ```
 
 ### Compiles and hot-reloads for development
